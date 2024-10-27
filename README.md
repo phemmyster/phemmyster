@@ -97,21 +97,21 @@
   ## :heavy_check_mark: Certifications
 
   
- ![az900](https://github.com/user-attachments/assets/b2bfe324-7eec-4bf6-a768-1ab0315c5d15)
-![azure-administrator-associate-600x600](https://github.com/user-attachments/assets/725e41c3-636d-42e1-aa38-bd3de308a0d6)
-![azure-ai-fundamentals-600x600](https://github.com/user-attachments/assets/931084f2-b964-423a-8573-3e5c1e93e613)
-![azure-data-engineer-associate-600x600](https://github.com/user-attachments/assets/e3ccf00f-9af3-4ceb-ac83-156d78534e1f)
-![azure-data-fundamentals-600x600](https://github.com/user-attachments/assets/f8b130df-f093-477f-ba11-d2772c44d045)
-![Badges_v8-07_Practitioner](https://github.com/user-attachments/assets/2573d164-3628-4942-a624-8279af7d8639)
-![CERT-Fundamentals-Power-Platform](https://github.com/user-attachments/assets/31a96890-f103-49ea-90d4-aeedb6dd4c17)
-![image (1)](https://github.com/user-attachments/assets/eb066499-1b54-42db-957f-a47377b1717c)
-![image (2)](https://github.com/user-attachments/assets/847d8a83-1fe7-4524-82e4-25f7eac7bceb)
-![image (3)](https://github.com/user-attachments/assets/82820449-8dad-425b-b805-f58c1485739a)
-![image (4)](https://github.com/user-attachments/assets/a6083ca5-32e5-4d28-b449-28cc941ba02a)
-![image](https://github.com/user-attachments/assets/5943a308-ddc3-4995-9570-a458a901372e)
-![microsoft365-security-administrator-associate-600x600](https://github.com/user-attachments/assets/49a01d7a-2bb2-474d-94cf-4fc9b772605d)
-![MTA-Introduction_to_Programming_Using_Python-600x600](https://github.com/user-attachments/assets/5bfbcdb0-430b-46c4-8524-dd92ab7307a1)
-![security-compliance-and-identity-fundamentals-600x600](https://github.com/user-attachments/assets/283acdef-745d-49f8-8c52-37ab4bdccb0c)
+![az900](https://github.com/user-attachments/assets/0f32b445-86de-4d6d-b317-c3dc408c6413)
+![azure-administrator-associate-600x600](https://github.com/user-attachments/assets/b2a7d263-6a97-427a-b81e-e4c8b2bcaf54)
+![azure-ai-fundamentals-600x600](https://github.com/user-attachments/assets/7f5a9cb0-0ca5-4d91-9a10-e8d32991cfc9)
+![azure-data-engineer-associate-600x600](https://github.com/user-attachments/assets/7cc92cbc-1bc4-440d-8891-90a60c245593)
+![azure-data-fundamentals-600x600](https://github.com/user-attachments/assets/47a74d90-6c5d-46bb-a20d-1d23a938b45e)
+![Badges_v8-07_Practitioner](https://github.com/user-attachments/assets/e7ba2928-8516-402e-a48a-b8a1bec3ac12)
+![CERT-Fundamentals-Power-Platform](https://github.com/user-attachments/assets/169693cf-4e0b-4349-bd5c-c60a72cec56c)
+![image (1)](https://github.com/user-attachments/assets/c3475da3-383b-4397-9df9-a87fa5f45196)
+![image (2)](https://github.com/user-attachments/assets/23be260e-e488-45f2-9ed7-16a008f6cfac)
+![image (3)](https://github.com/user-attachments/assets/4d9d3272-2090-41c0-88af-868b41ef4ffb)
+![image (4)](https://github.com/user-attachments/assets/bef0d20b-a666-4b6a-8b6b-45b3c5b3ab83)
+![image](https://github.com/user-attachments/assets/4593d366-d6c9-4c76-96d2-08b8fc18013b)
+![microsoft365-security-administrator-associate-600x600](https://github.com/user-attachments/assets/7ccd0b45-e7a2-4503-94cd-d65bf7d5664b)
+![MTA-Introduction_to_Programming_Using_Python-600x600](https://github.com/user-attachments/assets/59fe2fd5-9e0f-4f37-9864-d5de362525c2)
+![security-compliance-and-identity-fundamentals-600x600](https://github.com/user-attachments/assets/ab318cc7-3f83-44b3-a207-c73db5761c77)
 
 
 
