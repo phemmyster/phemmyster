@@ -54,16 +54,14 @@
      
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)
+ ![C#](https://img.shields.io/badge/C%23-A8B9CC?style=for-the-badge&logo=white&logoColor=A8B9CC)
+  ![PowerShell](https://img.shields.io/badge/PowerShell-3FA9F5?style=for-the-badge&logo=white&logoColor=3FA9F5)
+ ![Java](https://img.shields.io/badge/Java-CC3E25?style=for-the-badge&logo=white&logoColor=CC3E25)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
-  ![React_Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+ ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![GNU Bash](https://img.shields.io/badge/gnubash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
   ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SCSS&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=SQL&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
@@ -74,34 +72,48 @@
   ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=REST_APIs&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 
-  ## :shopping_cart: e-Commerce:
+  ## 🧰: Tools:
     
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
-  ![Shopify](https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=Shopify&logoColor=white)
-  ![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=Wix&logoColor=white)
-  ![Woocommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=WooCommerce&logoColor=white)
-  ![Bigcommerce](https://img.shields.io/badge/bigcommerce-%23121118?style=for-the-badge&logo=bigcommerce&logoColor=white)
+  ![VMware](https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  [![PowerShell](https://img.shields.io/badge/PowerShell-3FA9F5?style=for-the-badge&logo=white&logoColor=3FA9F5)
+  ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
 
 
  
    ## :cloud: Cloud Technologies
   
   ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/azure-007FFF?style=for-the-badge&logo=teratail&logoColor=white)
+  ![Azure](https://img.shields.io/badge/azure-007FFF?style=for-the-badge&logo=teratail&logoColor=white)
   ![VMware](https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
   ## :computer: Operating System
-  ![Static Badge](https://img.shields.io/badge/Windows-007FFF?style=for-the-badge&logo=w&logoColor=white) 
+  ![Windows](https://img.shields.io/badge/Windows-007FFF?style=for-the-badge&logo=w&logoColor=white) 
   ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 
   ## :heavy_check_mark: Certifications
 
   
-  ![ACE_Associate](https://github.com/user-attachments/assets/a4dcc2ce-1dd2-4611-acf6-1849ebc3e4ee)
-  ![ACE_General](https://github.com/user-attachments/assets/2ca588ae-c353-4100-b4ae-72d8d742526c)
-  ![image](https://github.com/user-attachments/assets/e216a24e-1fca-41f8-9138-759023be51ad)
-  ![Cloud](https://github.com/user-attachments/assets/465c8fe7-a8f2-4438-ba36-670f2348ae70)
+ ![az900](https://github.com/user-attachments/assets/b2bfe324-7eec-4bf6-a768-1ab0315c5d15)
+![azure-administrator-associate-600x600](https://github.com/user-attachments/assets/725e41c3-636d-42e1-aa38-bd3de308a0d6)
+![azure-ai-fundamentals-600x600](https://github.com/user-attachments/assets/931084f2-b964-423a-8573-3e5c1e93e613)
+![azure-data-engineer-associate-600x600](https://github.com/user-attachments/assets/e3ccf00f-9af3-4ceb-ac83-156d78534e1f)
+![azure-data-fundamentals-600x600](https://github.com/user-attachments/assets/f8b130df-f093-477f-ba11-d2772c44d045)
+![Badges_v8-07_Practitioner](https://github.com/user-attachments/assets/2573d164-3628-4942-a624-8279af7d8639)
+![CERT-Fundamentals-Power-Platform](https://github.com/user-attachments/assets/31a96890-f103-49ea-90d4-aeedb6dd4c17)
+![image (1)](https://github.com/user-attachments/assets/eb066499-1b54-42db-957f-a47377b1717c)
+![image (2)](https://github.com/user-attachments/assets/847d8a83-1fe7-4524-82e4-25f7eac7bceb)
+![image (3)](https://github.com/user-attachments/assets/82820449-8dad-425b-b805-f58c1485739a)
+![image (4)](https://github.com/user-attachments/assets/a6083ca5-32e5-4d28-b449-28cc941ba02a)
+![image](https://github.com/user-attachments/assets/5943a308-ddc3-4995-9570-a458a901372e)
+![microsoft365-security-administrator-associate-600x600](https://github.com/user-attachments/assets/49a01d7a-2bb2-474d-94cf-4fc9b772605d)
+![MTA-Introduction_to_Programming_Using_Python-600x600](https://github.com/user-attachments/assets/5bfbcdb0-430b-46c4-8524-dd92ab7307a1)
+![security-compliance-and-identity-fundamentals-600x600](https://github.com/user-attachments/assets/283acdef-745d-49f8-8c52-37ab4bdccb0c)
+
+
 
 
 
