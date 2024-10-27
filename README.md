@@ -4,7 +4,7 @@
 
 <h1 align="center"
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-    Hi, I'm <a href="https://amedhmd.github.io/"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Daniel's GitHub Avatar" width="60px"/>Hammed</a>!
+    Hi, I'm <a href="https://amedhmd.github.io/"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Daniel's GitHub Avatar" width="60px"/>Oluwafemi</a>!
   <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel" alt="GitHub profile views counter">
   
 </h1>
@@ -13,7 +13,7 @@
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
-  <h2 align="center">Full Stack Developer | React+Nodejs | Laravel Expert</h2>
+  <h2 align="center">Cloud Engineer | Microsoft 365 Administrator | MCT</h2>
 
 
 <ul>
@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="https://amedhmd.github.io/" target="_blank"><strong>Portfolio</strong></a>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:amedhmd@gmail.com"><strong>amedhmd@gmail.com</strong></a>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:phemmyster@yahoo.com"><strong>phemmyster@yahoo.com</strong></a>
   </li>
   
   <li>
