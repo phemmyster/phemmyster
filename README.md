@@ -1,6 +1,6 @@
 <h1>Hi, I'm Oluwafemi Akinfenwa!<br/>
 <a href="https://github.com/adminM356">Cloud Engineer</a>, 
-<a href="https://www.linkedin.com/in/oluwafemiakinfenwa">Cybersecurity Enthusiast</a>, 
+<a href="https://www.linkedin.com/in/oluwafemiakinfenwa">Data & AI Enthusiast</a>, 
 <a href="https://phemmyhub.com.ng">Tech Educator</a>
 </h1>
 
