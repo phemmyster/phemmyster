@@ -1,7 +1,7 @@
 <h1>Hi, I'm Oluwafemi Akinfenwa!<br/>
-<a href="https://github.com/adminM356">Cloud Engineer</a>, 
+<a href="https://www.linkedin.com/in/oluwafemiakinfenwa">Cloud Engineer</a>, 
 <a href="https://www.linkedin.com/in/oluwafemiakinfenwa">Data & AI Enthusiast</a>, 
-<a href="https://phemmyhub.com.ng">Tech Educator</a>
+<a href="https://www.linkedin.com/in/oluwafemiakinfenwa">Microsoft Certified Trainer</a>
 </h1>
 
 <h2>👨‍💻 Projects </h2>
