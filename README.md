@@ -59,10 +59,13 @@
 
 <h2>📡 Connect with Me:</h2>
 
-[<img align="left" alt="Oluwafemi Akinfenwa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Oluwafemi Akinfenwa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Oluwafemi Akinfenwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Oluwafemi Akinfenwa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@phemmyster)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge)](https://twitter.com/phemmyster)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/oluwafemiakinfenwa)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&style=for-the-badge)](https://www.instagram.com/phemmyster)
+
 
 <br/><br/>
 
